@@ -1,0 +1,7 @@
+I’ve a SolarEdge converter connected with the solar panels and a smart grid meter.
+Homey get the smart meter data via P1 monitor and the solar data via the Zonnepanelen app with data imported via the SolarEdge API key.
+
+image
+
+In the overview Homey makes in my opinion the wrong calculation.
+Homey adds up the solar energy and the energy supplied!
